@@ -6,6 +6,4 @@ This is repository created for the Machine Learning Course.
 - 2
 - 3
 
-un cambio más
-
-**Ahora si se está actualizando**
+**Ensayo - acualizando Oct 19**
