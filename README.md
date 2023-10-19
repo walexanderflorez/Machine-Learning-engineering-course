@@ -6,4 +6,4 @@ This is repository created for the Machine Learning Course.
 - 2
 - 3
 
-**Ensayo - acualizando Oct 19**
+**Ensayo desde ubuntu - acualizando Oct 19**
