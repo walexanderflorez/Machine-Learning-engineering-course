@@ -10,4 +10,4 @@ This is repository created for the Machine Learning Course.
 
 un cambio más
 
-**Ahora si se está actualizando desde ubuntu**
+**ubuntu Oct 21**
