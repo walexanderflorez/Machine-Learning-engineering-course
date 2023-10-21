@@ -1,6 +1,6 @@
 # Machine Learning Engineering Course
 
-**esta es la rama2**
+**Rama2**
 
 This is repository created for the Machine Learning Course.
 
